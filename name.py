@@ -1,1 +1,0 @@
-print("My name is Vsevolod and student id is 202312418")
