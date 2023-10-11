@@ -7,3 +7,4 @@ for line in fhand:
         print(line[a+1:b])
         count += 1
 print("Total %d hosts printed" %(count))
+fhand.close()
