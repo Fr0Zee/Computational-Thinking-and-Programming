@@ -14,4 +14,4 @@ else:
             count += 1
     if count != 0:
         average = sum/count
-    print("Average spam confidence :",average)
+    print("Average spam confidence :", average)
