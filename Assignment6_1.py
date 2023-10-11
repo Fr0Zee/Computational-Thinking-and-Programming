@@ -6,4 +6,4 @@ except:
 else:
     for line in fhand:
         print(line.upper().rstrip())
-    
+    fhand.close()
