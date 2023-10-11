@@ -15,3 +15,4 @@ else:
     if count != 0:
         average = sum/count
     print("Average spam confidence :", average)
+    fhand.close()
